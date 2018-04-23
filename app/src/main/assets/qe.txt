@@ -1,0 +1,3838 @@
+﻿{
+    "1": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Migraine",
+                "Next": 145
+            },
+            {
+                "ID": 2,
+                "Answer": " Tension type headache",
+                "Next": 145
+            },
+            {
+                "ID": 3,
+                "Answer": " Other headache",
+                "Next": 145
+            },
+            {
+                "ID": 4,
+                "Answer": " Temporomandibular disorder",
+                "Next": 145
+            },
+            {
+                "ID": 5,
+                "Answer": " Neuropathic pain",
+                "Next": 145
+            },
+            {
+                "ID": 6,
+                "Answer": " Fibromyalgia",
+                "Next": 145
+            },
+            {
+                "ID": 7,
+                "Answer": " Other pain",
+                "Next": 145
+            },
+            {
+                "ID": 8,
+                "Answer": " Recurrent aphtha",
+                "Next": 145
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db90",
+        "ID": 1,
+        "Question": "What is your diagnosis? you can select as many as you like",
+        "Type": "Multiple",
+        "First": "True"
+    },
+    "2": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Pain",
+                "Next": 5
+            },
+            {
+                "ID": 2,
+                "Answer": " Sleep disturbances",
+                "Next": 5
+            },
+            {
+                "ID": 3,
+                "Answer": " Chronic fatigue",
+                "Next": 5
+            },
+            {
+                "ID": 4,
+                "Answer": " Weakeness",
+                "Next": 5
+            },
+            {
+                "ID": 5,
+                "Answer": " Chewing problems",
+                "Next": 5
+            },
+            {
+                "ID": 6,
+                "Answer": " Oral ulcers",
+                "Next": 5
+            },
+            {
+                "ID": 7,
+                "Answer": " Other",
+                "Next": 5
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db91",
+        "ID": 2,
+        "Question": "What is your chief complaint? you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "3": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Pain",
+                "Next": 6
+            },
+            {
+                "ID": 2,
+                "Answer": " Sleep disturbances",
+                "Next": 6
+            },
+            {
+                "ID": 3,
+                "Answer": " Chronic fatigue",
+                "Next": 6
+            },
+            {
+                "ID": 4,
+                "Answer": " Weakeness",
+                "Next": 6
+            },
+            {
+                "ID": 5,
+                "Answer": " Chewing problems",
+                "Next": 6
+            },
+            {
+                "ID": 6,
+                "Answer": " Oral ulcers",
+                "Next": 6
+            },
+            {
+                "ID": 7,
+                "Answer": " Other",
+                "Next": 6
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db92",
+        "ID": 3,
+        "Question": "What is your chief complaint? you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "4": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Pain",
+                "Next": 7
+            },
+            {
+                "ID": 2,
+                "Answer": " Sleep disturbances",
+                "Next": 7
+            },
+            {
+                "ID": 3,
+                "Answer": " Chronic fatigue",
+                "Next": 7
+            },
+            {
+                "ID": 4,
+                "Answer": " Weakeness",
+                "Next": 7
+            },
+            {
+                "ID": 5,
+                "Answer": " Chewing problems",
+                "Next": 7
+            },
+            {
+                "ID": 6,
+                "Answer": " Oral ulcers",
+                "Next": 7
+            },
+            {
+                "ID": 7,
+                "Answer": " Other",
+                "Next": 7
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db93",
+        "ID": 4,
+        "Question": "What is your chief complaint? you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "5": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 8
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 8
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db94",
+        "ID": 5,
+        "Question": "Does any of you family members suffer from one of the condition mentioned above?",
+        "Type": "Single"
+    },
+    "6": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 9
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 9
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db95",
+        "ID": 6,
+        "Question": "Does any of you family members suffer from one of the condition mentioned above?",
+        "Type": "Single"
+    },
+    "7": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 10
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 10
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db96",
+        "ID": 7,
+        "Question": "Does any of you family members suffer from one of the condition mentioned above?",
+        "Type": "Single"
+    },
+    "8": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "12-55",
+                "Next": 11
+            },
+            {
+                "ID": 2,
+                "Answer": "1-11",
+                "Next": 12
+            },
+            {
+                "ID": 3,
+                "Answer": "56-120",
+                "Next": 12
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db97",
+        "ID": 8,
+        "Question": "What is your age?",
+        "Type": "Range"
+    },
+    "9": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "12-55",
+                "Next": 13
+            },
+            {
+                "ID": 2,
+                "Answer": "1-11",
+                "Next": 14
+            },
+            {
+                "ID": 3,
+                "Answer": "56-120",
+                "Next": 14
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db98",
+        "ID": 9,
+        "Question": "What is your age?",
+        "Type": "Range"
+    },
+    "10": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "12-55",
+                "Next": 15
+            },
+            {
+                "ID": 2,
+                "Answer": "1-11",
+                "Next": 16
+            },
+            {
+                "ID": 3,
+                "Answer": "56-120",
+                "Next": 16
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db99",
+        "ID": 10,
+        "Question": "What is your age?",
+        "Type": "Range"
+    },
+    "11": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Female",
+                "Next": 17
+            },
+            {
+                "ID": 2,
+                "Answer": "Male",
+                "Next": 20
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db9a",
+        "ID": 11,
+        "Question": "What is your gender?",
+        "Type": "Single"
+    },
+    "12": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Female",
+                "Next": 18
+            },
+            {
+                "ID": 2,
+                "Answer": "Male",
+                "Next": 21
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db9b",
+        "ID": 12,
+        "Question": "What is your gender?",
+        "Type": "Single"
+    },
+    "13": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Female",
+                "Next": 19
+            },
+            {
+                "ID": 2,
+                "Answer": "Male",
+                "Next": 22
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db9c",
+        "ID": 13,
+        "Question": "What is your gender?",
+        "Type": "Single"
+    },
+    "14": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Female",
+                "Next": 20
+            },
+            {
+                "ID": 2,
+                "Answer": " Male",
+                "Next": 20
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db9d",
+        "ID": 14,
+        "Question": "What is your gender?",
+        "Type": "Single"
+    },
+    "15": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Female",
+                "Next": 21
+            },
+            {
+                "ID": 2,
+                "Answer": " Male",
+                "Next": 21
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db9e",
+        "ID": 15,
+        "Question": "What is your gender?",
+        "Type": "Single"
+    },
+    "16": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Female",
+                "Next": 22
+            },
+            {
+                "ID": 2,
+                "Answer": " Male",
+                "Next": 22
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1db9f",
+        "ID": 16,
+        "Question": "What is your gender?",
+        "Type": "Single"
+    },
+    "17": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 20
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 20
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba0",
+        "ID": 17,
+        "Question": "Are you pregnant?",
+        "Type": "Single"
+    },
+    "18": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 21
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 21
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba1",
+        "ID": 18,
+        "Question": "Are you pregnant?",
+        "Type": "Single"
+    },
+    "19": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 22
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 22
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba2",
+        "ID": 19,
+        "Question": "Are you pregnant?",
+        "Type": "Single"
+    },
+    "20": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "In relationship",
+                "Next": 23
+            },
+            {
+                "ID": 2,
+                "Answer": "Single",
+                "Next": 23
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba3",
+        "ID": 20,
+        "Question": "Marital status",
+        "Type": "Single"
+    },
+    "21": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "In relationship",
+                "Next": 24
+            },
+            {
+                "ID": 2,
+                "Answer": "Single",
+                "Next": 24
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba4",
+        "ID": 21,
+        "Question": "Marital status",
+        "Type": "Single"
+    },
+    "22": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "In relationship",
+                "Next": 25
+            },
+            {
+                "ID": 2,
+                "Answer": "Single",
+                "Next": 25
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba5",
+        "ID": 22,
+        "Question": "Marital status",
+        "Type": "Single"
+    },
+    "23": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Caucasian(White)",
+                "Next": 26
+            },
+            {
+                "ID": 2,
+                "Answer": "Asian",
+                "Next": 26
+            },
+            {
+                "ID": 3,
+                "Answer": "African american",
+                "Next": 26
+            },
+            {
+                "ID": 4,
+                "Answer": "Non american african",
+                "Next": 26
+            },
+            {
+                "ID": 5,
+                "Answer": "East Asian",
+                "Next": 26
+            },
+            {
+                "ID": 6,
+                "Answer": "Indian",
+                "Next": 26
+            },
+            {
+                "ID": 7,
+                "Answer": "Arabs",
+                "Next": 26
+            },
+            {
+                "ID": 8,
+                "Answer": "Other",
+                "Next": 26
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba6",
+        "ID": 23,
+        "Question": "Ethnicity",
+        "Type": "Single"
+    },
+    "24": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Caucasian(White)",
+                "Next": 27
+            },
+            {
+                "ID": 2,
+                "Answer": "Asian",
+                "Next": 27
+            },
+            {
+                "ID": 3,
+                "Answer": "African american",
+                "Next": 27
+            },
+            {
+                "ID": 4,
+                "Answer": "Non american african",
+                "Next": 27
+            },
+            {
+                "ID": 5,
+                "Answer": "East Asian",
+                "Next": 27
+            },
+            {
+                "ID": 6,
+                "Answer": "Indian",
+                "Next": 27
+            },
+            {
+                "ID": 7,
+                "Answer": "Arabs",
+                "Next": 27
+            },
+            {
+                "ID": 8,
+                "Answer": "Other",
+                "Next": 27
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba7",
+        "ID": 24,
+        "Question": "Ethnicity",
+        "Type": "Single"
+    },
+    "25": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Caucasian(White)",
+                "Next": 28
+            },
+            {
+                "ID": 2,
+                "Answer": "Asian",
+                "Next": 28
+            },
+            {
+                "ID": 3,
+                "Answer": "African american",
+                "Next": 28
+            },
+            {
+                "ID": 4,
+                "Answer": "Non american african",
+                "Next": 28
+            },
+            {
+                "ID": 5,
+                "Answer": "East Asian",
+                "Next": 28
+            },
+            {
+                "ID": 6,
+                "Answer": "Indian",
+                "Next": 28
+            },
+            {
+                "ID": 7,
+                "Answer": "Arabs",
+                "Next": 28
+            },
+            {
+                "ID": 8,
+                "Answer": "Other",
+                "Next": 28
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba8",
+        "ID": 25,
+        "Question": "Ethnicity",
+        "Type": "Single"
+    },
+    "26": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "yes",
+                "Next": 29
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 32
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dba9",
+        "ID": 26,
+        "Question": "Are you employed",
+        "Type": "Single"
+    },
+    "27": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "yes",
+                "Next": 30
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 33
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbaa",
+        "ID": 27,
+        "Question": "Are you employed",
+        "Type": "Single"
+    },
+    "28": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "yes",
+                "Next": 31
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 34
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbab",
+        "ID": 28,
+        "Question": "Are you employed",
+        "Type": "Single"
+    },
+    "29": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Less than 3 days",
+                "Next": 32
+            },
+            {
+                "ID": 2,
+                "Answer": "3-7 days",
+                "Next": 32
+            },
+            {
+                "ID": 3,
+                "Answer": "7-14 days",
+                "Next": 32
+            },
+            {
+                "ID": 4,
+                "Answer": "14-30 days",
+                "Next": 32
+            },
+            {
+                "ID": 5,
+                "Answer": "1-3 months",
+                "Next": 32
+            },
+            {
+                "ID": 6,
+                "Answer": "3-6 months",
+                "Next": 32
+            },
+            {
+                "ID": 7,
+                "Answer": " more than a year",
+                "Next": 32
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbac",
+        "ID": 29,
+        "Question": "What is the number of days you were absent from work because of the pain during this last 12 months? ֲ ",
+        "Type": "Single"
+    },
+    "30": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Less than 3 days",
+                "Next": 33
+            },
+            {
+                "ID": 2,
+                "Answer": "3-7 days",
+                "Next": 33
+            },
+            {
+                "ID": 3,
+                "Answer": "7-14 days",
+                "Next": 33
+            },
+            {
+                "ID": 4,
+                "Answer": "14-30 days",
+                "Next": 33
+            },
+            {
+                "ID": 5,
+                "Answer": "1-3 months",
+                "Next": 33
+            },
+            {
+                "ID": 6,
+                "Answer": "3-6 months",
+                "Next": 33
+            },
+            {
+                "ID": 7,
+                "Answer": " more than a year",
+                "Next": 33
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbad",
+        "ID": 30,
+        "Question": "What is the number of days you were absent from work because of the pain during this last 12 months? ֲ ",
+        "Type": "Single"
+    },
+    "31": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Less than 3 days",
+                "Next": 34
+            },
+            {
+                "ID": 2,
+                "Answer": "3-7 days",
+                "Next": 34
+            },
+            {
+                "ID": 3,
+                "Answer": "7-14 days",
+                "Next": 34
+            },
+            {
+                "ID": 4,
+                "Answer": "14-30 days",
+                "Next": 34
+            },
+            {
+                "ID": 5,
+                "Answer": "1-3 months",
+                "Next": 34
+            },
+            {
+                "ID": 6,
+                "Answer": "3-6 months",
+                "Next": 34
+            },
+            {
+                "ID": 7,
+                "Answer": " more than a year",
+                "Next": 34
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbae",
+        "ID": 31,
+        "Question": "What is the number of days you were absent from work because of the pain during this last 12 months? ֲ ",
+        "Type": "Single"
+    },
+    "32": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "High school",
+                "Next": 35
+            },
+            {
+                "ID": 2,
+                "Answer": " Technician",
+                "Next": 35
+            },
+            {
+                "ID": 3,
+                "Answer": " Academics",
+                "Next": 35
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbaf",
+        "ID": 32,
+        "Question": "Education",
+        "Type": "Single"
+    },
+    "33": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "High school",
+                "Next": 36
+            },
+            {
+                "ID": 2,
+                "Answer": " Technician",
+                "Next": 36
+            },
+            {
+                "ID": 3,
+                "Answer": " Academics",
+                "Next": 36
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb0",
+        "ID": 33,
+        "Question": "Education",
+        "Type": "Single"
+    },
+    "34": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "High school",
+                "Next": 37
+            },
+            {
+                "ID": 2,
+                "Answer": " Technician",
+                "Next": 37
+            },
+            {
+                "ID": 3,
+                "Answer": " Academics",
+                "Next": 37
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb1",
+        "ID": 34,
+        "Question": "Education",
+        "Type": "Single"
+    },
+    "35": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Current smoker",
+                "Next": 38
+            },
+            {
+                "ID": 2,
+                "Answer": "Past smoker",
+                "Next": 39
+            },
+            {
+                "ID": 3,
+                "Answer": "I never smoked",
+                "Next": 50
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb2",
+        "ID": 35,
+        "Question": "Smoking",
+        "Type": "Single"
+    },
+    "36": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Current smoker",
+                "Next": 40
+            },
+            {
+                "ID": 2,
+                "Answer": "Past smoker",
+                "Next": 41
+            },
+            {
+                "ID": 3,
+                "Answer": "I never smoked",
+                "Next": 51
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb3",
+        "ID": 36,
+        "Question": "Smoking",
+        "Type": "Single"
+    },
+    "37": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Current smoker",
+                "Next": 42
+            },
+            {
+                "ID": 2,
+                "Answer": "Past smoker",
+                "Next": 43
+            },
+            {
+                "ID": 3,
+                "Answer": "I never smoked",
+                "Next": 52
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb4",
+        "ID": 37,
+        "Question": "Smoking",
+        "Type": "Single"
+    },
+    "38": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-1 yers",
+                "Next": 44
+            },
+            {
+                "ID": 2,
+                "Answer": " 1-2years",
+                "Next": 44
+            },
+            {
+                "ID": 3,
+                "Answer": " 2-5 years",
+                "Next": 44
+            },
+            {
+                "ID": 4,
+                "Answer": " 5-10 years",
+                "Next": 44
+            },
+            {
+                "ID": 5,
+                "Answer": " More than 10 years\nI never smoked",
+                "Next": 44
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb5",
+        "ID": 38,
+        "Question": "How many year do you smoke?",
+        "Type": "Single"
+    },
+    "39": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-1 yers",
+                "Next": 45
+            },
+            {
+                "ID": 2,
+                "Answer": " 1-2years",
+                "Next": 45
+            },
+            {
+                "ID": 3,
+                "Answer": " 2-5 years",
+                "Next": 45
+            },
+            {
+                "ID": 4,
+                "Answer": " 5-10 years",
+                "Next": 45
+            },
+            {
+                "ID": 5,
+                "Answer": " More than 10 years\nI never smoked",
+                "Next": 45
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb6",
+        "ID": 39,
+        "Question": "How many year did you smoke?",
+        "Type": "Single"
+    },
+    "40": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-1 yers",
+                "Next": 46
+            },
+            {
+                "ID": 2,
+                "Answer": " 1-2years",
+                "Next": 46
+            },
+            {
+                "ID": 3,
+                "Answer": " 2-5 years",
+                "Next": 46
+            },
+            {
+                "ID": 4,
+                "Answer": " 5-10 years",
+                "Next": 46
+            },
+            {
+                "ID": 5,
+                "Answer": " More than 10 years\nI never smoked",
+                "Next": 46
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb7",
+        "ID": 40,
+        "Question": "How many year do you smoke?",
+        "Type": "Single"
+    },
+    "41": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-1 yers",
+                "Next": 47
+            },
+            {
+                "ID": 2,
+                "Answer": " 1-2years",
+                "Next": 47
+            },
+            {
+                "ID": 3,
+                "Answer": " 2-5 years",
+                "Next": 47
+            },
+            {
+                "ID": 4,
+                "Answer": " 5-10 years",
+                "Next": 47
+            },
+            {
+                "ID": 5,
+                "Answer": " More than 10 years\nI never smoked",
+                "Next": 47
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb8",
+        "ID": 41,
+        "Question": "How many year did you smoke?",
+        "Type": "Single"
+    },
+    "42": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-1 yers",
+                "Next": 48
+            },
+            {
+                "ID": 2,
+                "Answer": " 1-2years",
+                "Next": 48
+            },
+            {
+                "ID": 3,
+                "Answer": " 2-5 years",
+                "Next": 48
+            },
+            {
+                "ID": 4,
+                "Answer": " 5-10 years",
+                "Next": 48
+            },
+            {
+                "ID": 5,
+                "Answer": " More than 10 years\nI never smoked",
+                "Next": 48
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbb9",
+        "ID": 42,
+        "Question": "How many year do you smoke?",
+        "Type": "Single"
+    },
+    "43": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-1 yers",
+                "Next": 49
+            },
+            {
+                "ID": 2,
+                "Answer": " 1-2years",
+                "Next": 49
+            },
+            {
+                "ID": 3,
+                "Answer": " 2-5 years",
+                "Next": 49
+            },
+            {
+                "ID": 4,
+                "Answer": " 5-10 years",
+                "Next": 49
+            },
+            {
+                "ID": 5,
+                "Answer": " More than 10 years\nI never smoked",
+                "Next": 49
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbba",
+        "ID": 43,
+        "Question": "How many year did you smoke?",
+        "Type": "Single"
+    },
+    "44": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-100",
+                "Next": 50
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbbb",
+        "ID": 44,
+        "Question": "How many cigarette do you smoke per day?ֲ ",
+        "Type": "Number"
+    },
+    "45": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-100",
+                "Next": 50
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbbc",
+        "ID": 45,
+        "Question": "How many cigarette did you smoke per day?ֲ ",
+        "Type": "Number"
+    },
+    "46": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-100",
+                "Next": 51
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbbd",
+        "ID": 46,
+        "Question": "How many cigarette do you smoke per day?ֲ ",
+        "Type": "Number"
+    },
+    "47": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-100",
+                "Next": 51
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbbe",
+        "ID": 47,
+        "Question": "How many cigarette did you smoke per day?ֲ ",
+        "Type": "Number"
+    },
+    "48": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-100",
+                "Next": 52
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbbf",
+        "ID": 48,
+        "Question": "How many cigarette do you smoke per day?ֲ ",
+        "Type": "Number"
+    },
+    "49": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-100",
+                "Next": 52
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc0",
+        "ID": 49,
+        "Question": "How many cigarette did you smoke per day?ֲ ",
+        "Type": "Number"
+    },
+    "50": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 53
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 53
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc1",
+        "ID": 50,
+        "Question": "Do you have psychiatric background",
+        "Type": "Single"
+    },
+    "51": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 54
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 54
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc2",
+        "ID": 51,
+        "Question": "Do you have psychiatric background",
+        "Type": "Single"
+    },
+    "52": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 55
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 55
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc3",
+        "ID": 52,
+        "Question": "Do you have psychiatric background",
+        "Type": "Single"
+    },
+    "53": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 59
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 59
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc4",
+        "ID": 53,
+        "Question": "Where you hospitalized in the last year?",
+        "Type": "Single"
+    },
+    "54": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 60
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 60
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc5",
+        "ID": 54,
+        "Question": "Where you hospitalized in the last year?",
+        "Type": "Single"
+    },
+    "55": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 61
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 61
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc6",
+        "ID": 55,
+        "Question": "Where you hospitalized in the last year?",
+        "Type": "Single"
+    },
+    "56": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 59
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 59
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc7",
+        "ID": 56,
+        "Question": "Were you hospitalized because of a condition related to your pain?",
+        "Type": "Single"
+    },
+    "57": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 60
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 60
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc8",
+        "ID": 57,
+        "Question": "Were you hospitalized because of a condition related to your pain?",
+        "Type": "Single"
+    },
+    "58": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 61
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 61
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbc9",
+        "ID": 58,
+        "Question": "Were you hospitalized because of a condition related to your pain?",
+        "Type": "Single"
+    },
+    "59": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 62
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 62
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbca",
+        "ID": 59,
+        "Question": "have you been under stress during any period of time over the last year?",
+        "Type": "Single"
+    },
+    "60": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 63
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 63
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbcb",
+        "ID": 60,
+        "Question": "have you been under stress during any period of time over the last year?",
+        "Type": "Single"
+    },
+    "61": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 64
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 64
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbcc",
+        "ID": 61,
+        "Question": "have you been under stress during any period of time over the last year?",
+        "Type": "Single"
+    },
+    "62": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 63
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 63
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbcd",
+        "ID": 62,
+        "Question": "Do you consider yourself a stress-prone person?",
+        "Type": "Single"
+    },
+    "63": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 64
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 64
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbce",
+        "ID": 63,
+        "Question": "Do you consider yourself a stress-prone person?",
+        "Type": "Single"
+    },
+    "64": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 65
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 65
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbcf",
+        "ID": 64,
+        "Question": "Do you consider yourself a stress-prone person?",
+        "Type": "Single"
+    },
+    "65": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 68
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 68
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd0",
+        "ID": 65,
+        "Question": "Were you hospitalized because of a condition related to your pain?",
+        "Type": "Single"
+    },
+    "66": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 69
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 69
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd1",
+        "ID": 66,
+        "Question": "Were you hospitalized because of a condition related to your pain?",
+        "Type": "Single"
+    },
+    "67": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 70
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 70
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd2",
+        "ID": 67,
+        "Question": "Were you hospitalized because of a condition related to your pain?",
+        "Type": "Single"
+    },
+    "68": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Muscle pain",
+                "Next": 71
+            },
+            {
+                "ID": 2,
+                "Answer": " Muscle weakness",
+                "Next": 71
+            },
+            {
+                "ID": 3,
+                "Answer": " Pain",
+                "Next": 71
+            },
+            {
+                "ID": 4,
+                "Answer": "cramps in the abdomen",
+                "Next": 71
+            },
+            {
+                "ID": 5,
+                "Answer": " Numbness",
+                "Next": 71
+            },
+            {
+                "ID": 6,
+                "Answer": "tingling",
+                "Next": 71
+            },
+            {
+                "ID": 7,
+                "Answer": " Depression",
+                "Next": 71
+            },
+            {
+                "ID": 8,
+                "Answer": " Abdominal pain",
+                "Next": 71
+            },
+            {
+                "ID": 9,
+                "Answer": " Constipation",
+                "Next": 71
+            },
+            {
+                "ID": 10,
+                "Answer": " Diarrhea",
+                "Next": 71
+            },
+            {
+                "ID": 11,
+                "Answer": " Irritable bowel syndrome",
+                "Next": 71
+            },
+            {
+                "ID": 12,
+                "Answer": " Inflammatory bowel sisease",
+                "Next": 71
+            },
+            {
+                "ID": 13,
+                "Answer": " Gluten Sensitivity",
+                "Next": 71
+            },
+            {
+                "ID": 14,
+                "Answer": " Nutritional deficiency",
+                "Next": 71
+            },
+            {
+                "ID": 15,
+                "Answer": " Nerviousness",
+                "Next": 71
+            },
+            {
+                "ID": 16,
+                "Answer": " Ringing in ears",
+                "Next": 71
+            },
+            {
+                "ID": 17,
+                "Answer": " Oral ulcers",
+                "Next": 71
+            },
+            {
+                "ID": 18,
+                "Answer": " Lost",
+                "Next": 71
+            },
+            {
+                "ID": 19,
+                "Answer": " change in taste",
+                "Next": 71
+            },
+            {
+                "ID": 20,
+                "Answer": " lost of appetite",
+                "Next": 71
+            },
+            {
+                "ID": 21,
+                "Answer": " Sun sensitivity",
+                "Next": 71
+            },
+            {
+                "ID": 22,
+                "Answer": " Frequent urination",
+                "Next": 71
+            },
+            {
+                "ID": 23,
+                "Answer": " Back pain",
+                "Next": 71
+            },
+            {
+                "ID": 24,
+                "Answer": " Joint pain",
+                "Next": 71
+            },
+            {
+                "ID": 25,
+                "Answer": " Chronic fatigue syndrome",
+                "Next": 71
+            },
+            {
+                "ID": 26,
+                "Answer": " History of allergies",
+                "Next": 71
+            },
+            {
+                "ID": 27,
+                "Answer": " Skin rash",
+                "Next": 71
+            },
+            {
+                "ID": 28,
+                "Answer": " Recurrent eye infections",
+                "Next": 71
+            },
+            {
+                "ID": 29,
+                "Answer": " Genital ulcers",
+                "Next": 71
+            },
+            {
+                "ID": 30,
+                "Answer": " Non of the above",
+                "Next": 71
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd3",
+        "ID": 68,
+        "Question": "Please check all of the symptoms that you experienced over the last week",
+        "Type": "Multiple"
+    },
+    "69": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Muscle pain",
+                "Next": 72
+            },
+            {
+                "ID": 2,
+                "Answer": " Muscle weakness",
+                "Next": 72
+            },
+            {
+                "ID": 3,
+                "Answer": " Pain",
+                "Next": 72
+            },
+            {
+                "ID": 4,
+                "Answer": "cramps in the abdomen",
+                "Next": 72
+            },
+            {
+                "ID": 5,
+                "Answer": " Numbness",
+                "Next": 72
+            },
+            {
+                "ID": 6,
+                "Answer": "tingling",
+                "Next": 72
+            },
+            {
+                "ID": 7,
+                "Answer": " Depression",
+                "Next": 72
+            },
+            {
+                "ID": 8,
+                "Answer": " Abdominal pain",
+                "Next": 72
+            },
+            {
+                "ID": 9,
+                "Answer": " Constipation",
+                "Next": 72
+            },
+            {
+                "ID": 10,
+                "Answer": " Diarrhea",
+                "Next": 72
+            },
+            {
+                "ID": 11,
+                "Answer": " Irritable bowel syndrome",
+                "Next": 72
+            },
+            {
+                "ID": 12,
+                "Answer": " Inflammatory bowel sisease",
+                "Next": 72
+            },
+            {
+                "ID": 13,
+                "Answer": " Gluten Sensitivity",
+                "Next": 72
+            },
+            {
+                "ID": 14,
+                "Answer": " Nutritional deficiency",
+                "Next": 72
+            },
+            {
+                "ID": 15,
+                "Answer": " Nerviousness",
+                "Next": 72
+            },
+            {
+                "ID": 16,
+                "Answer": " Ringing in ears",
+                "Next": 72
+            },
+            {
+                "ID": 17,
+                "Answer": " Oral ulcers",
+                "Next": 72
+            },
+            {
+                "ID": 18,
+                "Answer": " Lost",
+                "Next": 72
+            },
+            {
+                "ID": 19,
+                "Answer": " change in taste",
+                "Next": 72
+            },
+            {
+                "ID": 20,
+                "Answer": " lost of appetite",
+                "Next": 72
+            },
+            {
+                "ID": 21,
+                "Answer": " Sun sensitivity",
+                "Next": 72
+            },
+            {
+                "ID": 22,
+                "Answer": " Frequent urination",
+                "Next": 72
+            },
+            {
+                "ID": 23,
+                "Answer": " Back pain",
+                "Next": 72
+            },
+            {
+                "ID": 24,
+                "Answer": " Joint pain",
+                "Next": 72
+            },
+            {
+                "ID": 25,
+                "Answer": " Chronic fatigue syndrome",
+                "Next": 72
+            },
+            {
+                "ID": 26,
+                "Answer": " History of allergies",
+                "Next": 72
+            },
+            {
+                "ID": 27,
+                "Answer": " Skin rash",
+                "Next": 72
+            },
+            {
+                "ID": 28,
+                "Answer": " Recurrent eye infections",
+                "Next": 72
+            },
+            {
+                "ID": 29,
+                "Answer": " Genital ulcers",
+                "Next": 72
+            },
+            {
+                "ID": 30,
+                "Answer": " Non of the above",
+                "Next": 72
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd4",
+        "ID": 69,
+        "Question": "Please check all of the symptoms that you experienced over the last week",
+        "Type": "Multiple"
+    },
+    "70": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Muscle pain",
+                "Next": 73
+            },
+            {
+                "ID": 2,
+                "Answer": " Muscle weakness",
+                "Next": 73
+            },
+            {
+                "ID": 3,
+                "Answer": " Pain",
+                "Next": 73
+            },
+            {
+                "ID": 4,
+                "Answer": "cramps in the abdomen",
+                "Next": 73
+            },
+            {
+                "ID": 5,
+                "Answer": " Numbness",
+                "Next": 73
+            },
+            {
+                "ID": 6,
+                "Answer": "tingling",
+                "Next": 73
+            },
+            {
+                "ID": 7,
+                "Answer": " Depression",
+                "Next": 73
+            },
+            {
+                "ID": 8,
+                "Answer": " Abdominal pain",
+                "Next": 73
+            },
+            {
+                "ID": 9,
+                "Answer": " Constipation",
+                "Next": 73
+            },
+            {
+                "ID": 10,
+                "Answer": " Diarrhea",
+                "Next": 73
+            },
+            {
+                "ID": 11,
+                "Answer": " Irritable bowel syndrome",
+                "Next": 73
+            },
+            {
+                "ID": 12,
+                "Answer": " Inflammatory bowel sisease",
+                "Next": 73
+            },
+            {
+                "ID": 13,
+                "Answer": " Gluten Sensitivity",
+                "Next": 73
+            },
+            {
+                "ID": 14,
+                "Answer": " Nutritional deficiency",
+                "Next": 73
+            },
+            {
+                "ID": 15,
+                "Answer": " Nerviousness",
+                "Next": 73
+            },
+            {
+                "ID": 16,
+                "Answer": " Ringing in ears",
+                "Next": 73
+            },
+            {
+                "ID": 17,
+                "Answer": " Oral ulcers",
+                "Next": 73
+            },
+            {
+                "ID": 18,
+                "Answer": " Lost",
+                "Next": 73
+            },
+            {
+                "ID": 19,
+                "Answer": " change in taste",
+                "Next": 73
+            },
+            {
+                "ID": 20,
+                "Answer": " lost of appetite",
+                "Next": 73
+            },
+            {
+                "ID": 21,
+                "Answer": " Sun sensitivity",
+                "Next": 73
+            },
+            {
+                "ID": 22,
+                "Answer": " Frequent urination",
+                "Next": 73
+            },
+            {
+                "ID": 23,
+                "Answer": " Back pain",
+                "Next": 73
+            },
+            {
+                "ID": 24,
+                "Answer": " Joint pain",
+                "Next": 73
+            },
+            {
+                "ID": 25,
+                "Answer": " Chronic fatigue syndrome",
+                "Next": 73
+            },
+            {
+                "ID": 26,
+                "Answer": " History of allergies",
+                "Next": 73
+            },
+            {
+                "ID": 27,
+                "Answer": " Skin rash",
+                "Next": 73
+            },
+            {
+                "ID": 28,
+                "Answer": " Recurrent eye infections",
+                "Next": 73
+            },
+            {
+                "ID": 29,
+                "Answer": " Genital ulcers",
+                "Next": 73
+            },
+            {
+                "ID": 30,
+                "Answer": " Non of the above",
+                "Next": 73
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd5",
+        "ID": 70,
+        "Question": "Please check all of the symptoms that you experienced over the last week",
+        "Type": "Multiple"
+    },
+    "71": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 74
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 74
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd6",
+        "ID": 71,
+        "Question": "Does any of these conditions happen during your pain attack?",
+        "Type": "Single"
+    },
+    "72": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 75
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 75
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd7",
+        "ID": 72,
+        "Question": "Does any of these conditions happen during your pain attack?",
+        "Type": "Single"
+    },
+    "73": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 76
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 76
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd8",
+        "ID": 73,
+        "Question": "Does any of these conditions happen during your pain attack?",
+        "Type": "Single"
+    },
+    "74": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 77
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 86
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbd9",
+        "ID": 74,
+        "Question": "Are you taking any medication for your pain?",
+        "Type": "Single"
+    },
+    "75": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 78
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 87
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbda",
+        "ID": 75,
+        "Question": "Are you taking any medication for your pain?",
+        "Type": "Single"
+    },
+    "76": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 79
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 88
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbdb",
+        "ID": 76,
+        "Question": "Are you taking any medication for your pain?",
+        "Type": "Single"
+    },
+    "77": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Non-prescription drugs",
+                "Next": 80
+            },
+            {
+                "ID": 2,
+                "Answer": " Amitriptyline(Elatrol)",
+                "Next": 80
+            },
+            {
+                "ID": 3,
+                "Answer": " Cymbalta",
+                "Next": 80
+            },
+            {
+                "ID": 4,
+                "Answer": " Lyrica",
+                "Next": 80
+            },
+            {
+                "ID": 5,
+                "Answer": " Nortyline",
+                "Next": 80
+            },
+            {
+                "ID": 6,
+                "Answer": " Gabapentiu",
+                "Next": 80
+            },
+            {
+                "ID": 7,
+                "Answer": " Topamax",
+                "Next": 80
+            },
+            {
+                "ID": 8,
+                "Answer": " Deralin",
+                "Next": 80
+            },
+            {
+                "ID": 9,
+                "Answer": " Depalept",
+                "Next": 80
+            },
+            {
+                "ID": 10,
+                "Answer": " Canabis",
+                "Next": 80
+            },
+            {
+                "ID": 11,
+                "Answer": " Carbamazepine(tegretol)",
+                "Next": 80
+            },
+            {
+                "ID": 12,
+                "Answer": " Other",
+                "Next": 80
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbdc",
+        "ID": 77,
+        "Question": "please select all of the medications that you are taking for reducing the pain. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "78": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Non-prescription drugs",
+                "Next": 81
+            },
+            {
+                "ID": 2,
+                "Answer": " Amitriptyline(Elatrol)",
+                "Next": 81
+            },
+            {
+                "ID": 3,
+                "Answer": " Cymbalta",
+                "Next": 81
+            },
+            {
+                "ID": 4,
+                "Answer": " Lyrica",
+                "Next": 81
+            },
+            {
+                "ID": 5,
+                "Answer": " Nortyline",
+                "Next": 81
+            },
+            {
+                "ID": 6,
+                "Answer": " Gabapentiu",
+                "Next": 81
+            },
+            {
+                "ID": 7,
+                "Answer": " Topamax",
+                "Next": 81
+            },
+            {
+                "ID": 8,
+                "Answer": " Deralin",
+                "Next": 81
+            },
+            {
+                "ID": 9,
+                "Answer": " Depalept",
+                "Next": 81
+            },
+            {
+                "ID": 10,
+                "Answer": " Canabis",
+                "Next": 81
+            },
+            {
+                "ID": 11,
+                "Answer": " Carbamazepine(tegretol)",
+                "Next": 81
+            },
+            {
+                "ID": 12,
+                "Answer": " Other",
+                "Next": 81
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbdd",
+        "ID": 78,
+        "Question": "please select all of the medications that you are taking for reducing the pain. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "79": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Oral rinses",
+                "Next": 82
+            },
+            {
+                "ID": 2,
+                "Answer": " Oracort",
+                "Next": 82
+            },
+            {
+                "ID": 3,
+                "Answer": " Oral medic",
+                "Next": 82
+            },
+            {
+                "ID": 4,
+                "Answer": " Aphthagon",
+                "Next": 82
+            },
+            {
+                "ID": 5,
+                "Answer": " Other",
+                "Next": 82
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbde",
+        "ID": 79,
+        "Question": "please select all of the medications that you are taking for reducing the pain. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "80": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Oral rinses",
+                "Next": 83
+            },
+            {
+                "ID": 2,
+                "Answer": " Oracort",
+                "Next": 83
+            },
+            {
+                "ID": 3,
+                "Answer": " Oral medic",
+                "Next": 83
+            },
+            {
+                "ID": 4,
+                "Answer": " Aphthagon",
+                "Next": 83
+            },
+            {
+                "ID": 5,
+                "Answer": " Other",
+                "Next": 83
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbdf",
+        "ID": 80,
+        "Question": "Please describe the medication you are taking for your aphtha. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "81": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 84
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe0",
+        "ID": 81,
+        "Question": "How do you describe the effectiveness of the drugs of reducing the pain?",
+        "Type": "Number"
+    },
+    "82": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 85
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe1",
+        "ID": 82,
+        "Question": "How do you describe the effectiveness of the drugs of reducing the pain?",
+        "Type": "Number"
+    },
+    "83": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 86
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe2",
+        "ID": 83,
+        "Question": "How do you describe the effectiveness of the drugs of reducing the pain?",
+        "Type": "Number"
+    },
+    "84": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 87
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 90
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe3",
+        "ID": 84,
+        "Question": "Did you suffer from trauma?",
+        "Type": "Single"
+    },
+    "85": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 88
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 91
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe4",
+        "ID": 85,
+        "Question": "Did you suffer from trauma?",
+        "Type": "Single"
+    },
+    "86": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 89
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 92
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe5",
+        "ID": 86,
+        "Question": "Did you suffer from trauma?",
+        "Type": "Single"
+    },
+    "87": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Emotional trauma",
+                "Next": 90
+            },
+            {
+                "ID": 2,
+                "Answer": " Physical trauma (falls",
+                "Next": 90
+            },
+            {
+                "ID": 3,
+                "Answer": " road traffic accidents",
+                "Next": 90
+            },
+            {
+                "ID": 4,
+                "Answer": " altercations)",
+                "Next": 90
+            },
+            {
+                "ID": 5,
+                "Answer": " Dental trauma",
+                "Next": 90
+            },
+            {
+                "ID": 6,
+                "Answer": " I have no trauma history",
+                "Next": 90
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe6",
+        "ID": 87,
+        "Question": "Trauma history. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "88": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Emotional trauma",
+                "Next": 91
+            },
+            {
+                "ID": 2,
+                "Answer": " Physical trauma (falls",
+                "Next": 91
+            },
+            {
+                "ID": 3,
+                "Answer": " road traffic accidents",
+                "Next": 91
+            },
+            {
+                "ID": 4,
+                "Answer": " altercations)",
+                "Next": 91
+            },
+            {
+                "ID": 5,
+                "Answer": " Dental trauma",
+                "Next": 91
+            },
+            {
+                "ID": 6,
+                "Answer": " I have no trauma history",
+                "Next": 91
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe7",
+        "ID": 88,
+        "Question": "Trauma history. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "89": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Emotional trauma",
+                "Next": 92
+            },
+            {
+                "ID": 2,
+                "Answer": " Physical trauma (falls",
+                "Next": 92
+            },
+            {
+                "ID": 3,
+                "Answer": " road traffic accidents",
+                "Next": 92
+            },
+            {
+                "ID": 4,
+                "Answer": " altercations)",
+                "Next": 92
+            },
+            {
+                "ID": 5,
+                "Answer": " Dental trauma",
+                "Next": 92
+            },
+            {
+                "ID": 6,
+                "Answer": " I have no trauma history",
+                "Next": 92
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe8",
+        "ID": 89,
+        "Question": "Trauma history. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "90": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 93
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbe9",
+        "ID": 90,
+        "Question": "How do you describe your quality of life?",
+        "Type": "Number"
+    },
+    "91": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 94
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbea",
+        "ID": 91,
+        "Question": "How do you describe your quality of life?",
+        "Type": "Number"
+    },
+    "92": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 95
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbeb",
+        "ID": 92,
+        "Question": "How do you describe your quality of life?",
+        "Type": "Number"
+    },
+    "93": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 96
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbec",
+        "ID": 93,
+        "Question": "How do you describe your sleep quality?",
+        "Type": "Number"
+    },
+    "94": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 97
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbed",
+        "ID": 94,
+        "Question": "How do you describe your sleep quality?",
+        "Type": "Number"
+    },
+    "95": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 98
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbee",
+        "ID": 95,
+        "Question": "How do you describe your sleep quality?",
+        "Type": "Number"
+    },
+    "96": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-15",
+                "Next": 99
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbef",
+        "ID": 96,
+        "Question": "How many hours do you sleep per day?",
+        "Type": "Number"
+    },
+    "97": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-15",
+                "Next": 100
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf0",
+        "ID": 97,
+        "Question": "How many hours do you sleep per day?",
+        "Type": "Number"
+    },
+    "98": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-15",
+                "Next": 101
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf1",
+        "ID": 98,
+        "Question": "How many hours do you sleep per day?",
+        "Type": "Number"
+    },
+    "99": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 102
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 102
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf2",
+        "ID": 99,
+        "Question": "Does your pain wake you from sleep?",
+        "Type": "Single"
+    },
+    "100": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 103
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 103
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf3",
+        "ID": 100,
+        "Question": "Does your pain wake you from sleep?",
+        "Type": "Single"
+    },
+    "101": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 104
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 104
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf4",
+        "ID": 101,
+        "Question": "Does your pain wake you from sleep?",
+        "Type": "Single"
+    },
+    "102": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Body_Parts",
+                "Next": 105
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf5",
+        "ID": 102,
+        "Question": "Please Draw your pain locations. you can draw as many as you like",
+        "Type": "Body_Parts"
+    },
+    "103": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Body_Parts",
+                "Next": 106
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf6",
+        "ID": 103,
+        "Question": "Please Draw your pain locations. you can draw as many as you like",
+        "Type": "Body_Parts"
+    },
+    "104": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Body_Parts",
+                "Next": 107
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf7",
+        "ID": 104,
+        "Question": "Please Draw your pain locations. you can draw as many as you like",
+        "Type": "Body_Parts"
+    },
+    "105": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Body_Parts",
+                "Next": 108
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf8",
+        "ID": 105,
+        "Question": "Please Draw your pain locations. you can draw as many as you like",
+        "Type": "Body_Parts"
+    },
+    "106": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "1-10",
+                "Next": 109
+            },
+            {
+                "ID": 2,
+                "Answer": "0-0",
+                "Next": 124
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbf9",
+        "ID": 106,
+        "Question": "On a scale from 0-10/ how do you describe your pain",
+        "Type": "Range"
+    },
+    "107": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Body_Parts",
+                "Next": 110
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbfa",
+        "ID": 107,
+        "Question": "Please Draw your pain locations. you can draw as many as you like",
+        "Type": "Body_Parts"
+    },
+    "108": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "1-10",
+                "Next": 111
+            },
+            {
+                "ID": 2,
+                "Answer": "0-0",
+                "Next": 129
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbfb",
+        "ID": 108,
+        "Question": "On a scale from 0-10/ how do you describe your pain",
+        "Type": "Range"
+    },
+    "109": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "A week ago",
+                "Next": 112
+            },
+            {
+                "ID": 2,
+                "Answer": " A month ago",
+                "Next": 112
+            },
+            {
+                "ID": 3,
+                "Answer": " 3-6 months ago",
+                "Next": 112
+            },
+            {
+                "ID": 4,
+                "Answer": " 6 -12 months ago",
+                "Next": 112
+            },
+            {
+                "ID": 5,
+                "Answer": " 1-5 years ago",
+                "Next": 112
+            },
+            {
+                "ID": 6,
+                "Answer": " 5-10 years ago",
+                "Next": 112
+            },
+            {
+                "ID": 7,
+                "Answer": " 10-20 years ago",
+                "Next": 112
+            },
+            {
+                "ID": 8,
+                "Answer": " More than 20 years ago",
+                "Next": 112
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbfc",
+        "ID": 109,
+        "Question": "When did your pain start",
+        "Type": "Single"
+    },
+    "110": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "1-10",
+                "Next": 113
+            },
+            {
+                "ID": 2,
+                "Answer": "0-0",
+                "Next": 131
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbfd",
+        "ID": 110,
+        "Question": "On a scale from 0-10/ how do you describe your pain",
+        "Type": "Range"
+    },
+    "111": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "A week ago",
+                "Next": 114
+            },
+            {
+                "ID": 2,
+                "Answer": " A month ago",
+                "Next": 114
+            },
+            {
+                "ID": 3,
+                "Answer": " 3-6 months ago",
+                "Next": 114
+            },
+            {
+                "ID": 4,
+                "Answer": " 6 -12 months ago",
+                "Next": 114
+            },
+            {
+                "ID": 5,
+                "Answer": " 1-5 years ago",
+                "Next": 114
+            },
+            {
+                "ID": 6,
+                "Answer": " 5-10 years ago",
+                "Next": 114
+            },
+            {
+                "ID": 7,
+                "Answer": " 10-20 years ago",
+                "Next": 114
+            },
+            {
+                "ID": 8,
+                "Answer": " More than 20 years ago",
+                "Next": 114
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbfe",
+        "ID": 111,
+        "Question": "When did your pain start",
+        "Type": "Single"
+    },
+    "112": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Continues pain",
+                "Next": 115
+            },
+            {
+                "ID": 2,
+                "Answer": " Pain attacks from time to time",
+                "Next": 115
+            },
+            {
+                "ID": 3,
+                "Answer": " Continues pain with pain attackes",
+                "Next": 115
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dbff",
+        "ID": 112,
+        "Question": "Describe your pain",
+        "Type": "Single"
+    },
+    "113": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "A week ago",
+                "Next": 116
+            },
+            {
+                "ID": 2,
+                "Answer": " A month ago",
+                "Next": 116
+            },
+            {
+                "ID": 3,
+                "Answer": " 3-6 months ago",
+                "Next": 116
+            },
+            {
+                "ID": 4,
+                "Answer": " 6 -12 months ago",
+                "Next": 116
+            },
+            {
+                "ID": 5,
+                "Answer": " 1-5 years ago",
+                "Next": 116
+            },
+            {
+                "ID": 6,
+                "Answer": " 5-10 years ago",
+                "Next": 116
+            },
+            {
+                "ID": 7,
+                "Answer": " 10-20 years ago",
+                "Next": 116
+            },
+            {
+                "ID": 8,
+                "Answer": " More than 20 years ago",
+                "Next": 116
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc00",
+        "ID": 113,
+        "Question": "When did your pain start",
+        "Type": "Single"
+    },
+    "114": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Continues pain",
+                "Next": 117
+            },
+            {
+                "ID": 2,
+                "Answer": " Pain attacks from time to time",
+                "Next": 117
+            },
+            {
+                "ID": 3,
+                "Answer": " Continues pain with pain attackes",
+                "Next": 117
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc01",
+        "ID": 114,
+        "Question": "Describe your pain",
+        "Type": "Single"
+    },
+    "115": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Seconds",
+                "Next": 118
+            },
+            {
+                "ID": 2,
+                "Answer": " Minutes",
+                "Next": 118
+            },
+            {
+                "ID": 3,
+                "Answer": " Hours",
+                "Next": 118
+            },
+            {
+                "ID": 4,
+                "Answer": " Days",
+                "Next": 118
+            },
+            {
+                "ID": 5,
+                "Answer": " Weeks",
+                "Next": 118
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc02",
+        "ID": 115,
+        "Question": "Pain duration",
+        "Type": "Single"
+    },
+    "116": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Continues pain",
+                "Next": 119
+            },
+            {
+                "ID": 2,
+                "Answer": " Pain attacks from time to time",
+                "Next": 119
+            },
+            {
+                "ID": 3,
+                "Answer": " Continues pain with pain attackes",
+                "Next": 119
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc03",
+        "ID": 116,
+        "Question": "Describe your pain",
+        "Type": "Single"
+    },
+    "117": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Seconds",
+                "Next": 120
+            },
+            {
+                "ID": 2,
+                "Answer": " Minutes",
+                "Next": 120
+            },
+            {
+                "ID": 3,
+                "Answer": " Hours",
+                "Next": 120
+            },
+            {
+                "ID": 4,
+                "Answer": " Days",
+                "Next": 120
+            },
+            {
+                "ID": 5,
+                "Answer": " Weeks",
+                "Next": 120
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc04",
+        "ID": 117,
+        "Question": "Pain duration",
+        "Type": "Single"
+    },
+    "118": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Several times a hour",
+                "Next": 121
+            },
+            {
+                "ID": 2,
+                "Answer": " Several times a  day",
+                "Next": 121
+            },
+            {
+                "ID": 3,
+                "Answer": " Several times a week",
+                "Next": 121
+            },
+            {
+                "ID": 4,
+                "Answer": " Several times a month",
+                "Next": 121
+            },
+            {
+                "ID": 5,
+                "Answer": " Several times a year",
+                "Next": 121
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc05",
+        "ID": 118,
+        "Question": "Pain frequencyֲ ",
+        "Type": "Single"
+    },
+    "119": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Seconds",
+                "Next": 122
+            },
+            {
+                "ID": 2,
+                "Answer": " Minutes",
+                "Next": 122
+            },
+            {
+                "ID": 3,
+                "Answer": " Hours",
+                "Next": 122
+            },
+            {
+                "ID": 4,
+                "Answer": " Days",
+                "Next": 122
+            },
+            {
+                "ID": 5,
+                "Answer": " Weeks",
+                "Next": 122
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc06",
+        "ID": 119,
+        "Question": "Pain duration",
+        "Type": "Single"
+    },
+    "120": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Several times a hour",
+                "Next": 123
+            },
+            {
+                "ID": 2,
+                "Answer": " Several times a  day",
+                "Next": 123
+            },
+            {
+                "ID": 3,
+                "Answer": " Several times a week",
+                "Next": 123
+            },
+            {
+                "ID": 4,
+                "Answer": " Several times a month",
+                "Next": 123
+            },
+            {
+                "ID": 5,
+                "Answer": " Several times a year",
+                "Next": 123
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc07",
+        "ID": 120,
+        "Question": "Pain frequencyֲ ",
+        "Type": "Single"
+    },
+    "121": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Electrical",
+                "Next": 124
+            },
+            {
+                "ID": 2,
+                "Answer": " Stabbing (includes sharp)",
+                "Next": 124
+            },
+            {
+                "ID": 3,
+                "Answer": " Throbbing (includes shooting)",
+                "Next": 124
+            },
+            {
+                "ID": 4,
+                "Answer": " Pressure",
+                "Next": 124
+            },
+            {
+                "ID": 5,
+                "Answer": " Burning",
+                "Next": 124
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc08",
+        "ID": 121,
+        "Question": "Describe your pain quality. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "122": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Several times a hour",
+                "Next": 125
+            },
+            {
+                "ID": 2,
+                "Answer": " Several times a  day",
+                "Next": 125
+            },
+            {
+                "ID": 3,
+                "Answer": " Several times a week",
+                "Next": 125
+            },
+            {
+                "ID": 4,
+                "Answer": " Several times a month",
+                "Next": 125
+            },
+            {
+                "ID": 5,
+                "Answer": " Several times a year",
+                "Next": 125
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc09",
+        "ID": 122,
+        "Question": "Pain frequencyֲ ",
+        "Type": "Single"
+    },
+    "123": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Electrical",
+                "Next": 126
+            },
+            {
+                "ID": 2,
+                "Answer": " Stabbing (includes sharp)",
+                "Next": 126
+            },
+            {
+                "ID": 3,
+                "Answer": " Throbbing (includes shooting)",
+                "Next": 126
+            },
+            {
+                "ID": 4,
+                "Answer": " Pressure",
+                "Next": 126
+            },
+            {
+                "ID": 5,
+                "Answer": " Burning",
+                "Next": 126
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc0a",
+        "ID": 123,
+        "Question": "Describe your pain quality. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "124": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "1-120",
+                "Next": 127
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc0b",
+        "ID": 124,
+        "Question": "How old were you when your condition started",
+        "Type": "Number"
+    },
+    "125": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Electrical",
+                "Next": 128
+            },
+            {
+                "ID": 2,
+                "Answer": " Stabbing (includes sharp)",
+                "Next": 128
+            },
+            {
+                "ID": 3,
+                "Answer": " Throbbing (includes shooting)",
+                "Next": 128
+            },
+            {
+                "ID": 4,
+                "Answer": " Pressure",
+                "Next": 128
+            },
+            {
+                "ID": 5,
+                "Answer": " Burning",
+                "Next": 128
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc0c",
+        "ID": 125,
+        "Question": "Describe your pain quality. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "126": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Nausea and vomiting",
+                "Next": 129
+            },
+            {
+                "ID": 2,
+                "Answer": " Dizziness",
+                "Next": 129
+            },
+            {
+                "ID": 3,
+                "Answer": " Teary",
+                "Next": 129
+            },
+            {
+                "ID": 4,
+                "Answer": " Nasal congestion",
+                "Next": 129
+            },
+            {
+                "ID": 5,
+                "Answer": " Sensitivity to light(photophobia)",
+                "Next": 129
+            },
+            {
+                "ID": 6,
+                "Answer": " Sensitivity to noise(phonophobia)",
+                "Next": 129
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc0d",
+        "ID": 126,
+        "Question": "During your pain attacks do you suffer from one of the following symptoms. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "127": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 130
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 130
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc0e",
+        "ID": 127,
+        "Question": "Did your condition get worse during the last year?",
+        "Type": "Single"
+    },
+    "128": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Nausea and vomiting",
+                "Next": 131
+            },
+            {
+                "ID": 2,
+                "Answer": " Dizziness",
+                "Next": 131
+            },
+            {
+                "ID": 3,
+                "Answer": " Teary",
+                "Next": 131
+            },
+            {
+                "ID": 4,
+                "Answer": " Nasal congestion",
+                "Next": 131
+            },
+            {
+                "ID": 5,
+                "Answer": " Sensitivity to light(photophobia)",
+                "Next": 131
+            },
+            {
+                "ID": 6,
+                "Answer": " Sensitivity to noise(phonophobia)",
+                "Next": 131
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc0f",
+        "ID": 128,
+        "Question": "During your pain attacks do you suffer from one of the following symptoms. you can select as many as you like",
+        "Type": "Multiple"
+    },
+    "129": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "1-120",
+                "Next": 132
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc10",
+        "ID": 129,
+        "Question": "How old were you when your condition started",
+        "Type": "Number"
+    },
+    "130": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 133
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc11",
+        "ID": 130,
+        "Question": "How many times did you have aphtha attacks during the last year",
+        "Type": "Number"
+    },
+    "131": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "1-120",
+                "Next": 134
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc12",
+        "ID": 131,
+        "Question": "How old were you when your condition started",
+        "Type": "Number"
+    },
+    "132": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 135
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 135
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc13",
+        "ID": 132,
+        "Question": "Did your condition get worse during the last year?",
+        "Type": "Single"
+    },
+    "133": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 136
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc14",
+        "ID": 133,
+        "Question": "Number of aphtha per attack",
+        "Type": "Number"
+    },
+    "134": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Yes",
+                "Next": 137
+            },
+            {
+                "ID": 2,
+                "Answer": "No",
+                "Next": 137
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc15",
+        "ID": 134,
+        "Question": "Did your condition get worse during the last year?",
+        "Type": "Single"
+    },
+    "135": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "No problem",
+                "Next": 138
+            },
+            {
+                "ID": 2,
+                "Answer": " Slight problem or intermittent",
+                "Next": 138
+            },
+            {
+                "ID": 3,
+                "Answer": " Moderate problem",
+                "Next": 138
+            },
+            {
+                "ID": 4,
+                "Answer": " Severe problem",
+                "Next": 138
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc16",
+        "ID": 135,
+        "Question": "Indicate your level of symptom severity over the past week: Fatigue(tiredness)",
+        "Type": "Single"
+    },
+    "136": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": -1
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc17",
+        "ID": 136,
+        "Question": "How long does your aphth attack last?",
+        "Type": "Number"
+    },
+    "137": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 139
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc18",
+        "ID": 137,
+        "Question": "How many times did you have aphtha attacks during the last year",
+        "Type": "Number"
+    },
+    "138": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "No problem",
+                "Next": 140
+            },
+            {
+                "ID": 2,
+                "Answer": " Slight problem or intermittent",
+                "Next": 140
+            },
+            {
+                "ID": 3,
+                "Answer": " Moderate problem",
+                "Next": 140
+            },
+            {
+                "ID": 4,
+                "Answer": " Severe problem",
+                "Next": 140
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc19",
+        "ID": 138,
+        "Question": "Waking unrefresh",
+        "Type": "Single"
+    },
+    "139": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": 141
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc1a",
+        "ID": 139,
+        "Question": "Number of aphtha per attack",
+        "Type": "Number"
+    },
+    "140": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "No problem",
+                "Next": -1
+            },
+            {
+                "ID": 2,
+                "Answer": " Slight problem or intermittent",
+                "Next": -1
+            },
+            {
+                "ID": 3,
+                "Answer": " Moderate problem",
+                "Next": -1
+            },
+            {
+                "ID": 4,
+                "Answer": " Severe problem",
+                "Next": -1
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc1b",
+        "ID": 140,
+        "Question": "Thinking or remembering problem",
+        "Type": "Single"
+    },
+    "141": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "0-10",
+                "Next": -1
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc1c",
+        "ID": 141,
+        "Question": "How long does your aphth attack last?",
+        "Type": "Number"
+    },
+    "142": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "No problem",
+                "Next": 143
+            },
+            {
+                "ID": 2,
+                "Answer": " Slight problem or intermittent",
+                "Next": 143
+            },
+            {
+                "ID": 3,
+                "Answer": " Moderate problem",
+                "Next": 143
+            },
+            {
+                "ID": 4,
+                "Answer": " Severe problem",
+                "Next": 143
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc1d",
+        "ID": 142,
+        "Question": "Indicate your level of symptom severity over the past week: Fatigue(tiredness)",
+        "Type": "Single"
+    },
+    "143": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "No problem",
+                "Next": 144
+            },
+            {
+                "ID": 2,
+                "Answer": " Slight problem or intermittent",
+                "Next": 144
+            },
+            {
+                "ID": 3,
+                "Answer": " Moderate problem",
+                "Next": 144
+            },
+            {
+                "ID": 4,
+                "Answer": " Severe problem",
+                "Next": 144
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc1e",
+        "ID": 143,
+        "Question": "Waking unrefresh",
+        "Type": "Single"
+    },
+    "144": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "No problem",
+                "Next": -1
+            },
+            {
+                "ID": 2,
+                "Answer": " Slight problem or intermittent",
+                "Next": -1
+            },
+            {
+                "ID": 3,
+                "Answer": " Moderate problem",
+                "Next": -1
+            },
+            {
+                "ID": 4,
+                "Answer": " Severe problem",
+                "Next": -1
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc1f",
+        "ID": 144,
+        "Question": "Thinking or remembering problem",
+        "Type": "Single"
+    },
+    "145": {
+        "Choices": [
+            {
+                "ID": 1,
+                "Answer": "Tension type headache",
+                "Next": 2
+            },
+            {
+                "ID": 2,
+                "Answer": " Other headache",
+                "Next": 2
+            },
+            {
+                "ID": 3,
+                "Answer": " Temporomandibular disorder",
+                "Next": 2
+            },
+            {
+                "ID": 4,
+                "Answer": " Neuropathic pain",
+                "Next": 2
+            },
+            {
+                "ID": 5,
+                "Answer": " Fibromyalgia",
+                "Next": 2
+            },
+            {
+                "ID": 6,
+                "Answer": " Other pain",
+                "Next": 2
+            },
+            {
+                "ID": 7,
+                "Answer": "Migraine",
+                "Next": 3
+            },
+            {
+                "ID": 8,
+                "Answer": "Recurrent aphtha",
+                "Next": 4
+            }
+        ],
+        "_id": "5abcd86c9e87053080f1dc20",
+        "ID": 145,
+        "Question": "Of all the pain conditions you have, which one causes you the most suffering. Please relate to this diagnosis in the questionnaire.",
+        "Type": "Single"
+    }
+}
